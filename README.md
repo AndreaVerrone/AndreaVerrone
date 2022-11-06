@@ -14,5 +14,6 @@ I’ve worked on several projects during my career, some as the result of a Univ
 
 ## How to contact me 📣
 
+<a href="mailto:andrea.verrone@mail.polimi.it"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.instagram.com/andrea_9812/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <!-- <a href=""><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
