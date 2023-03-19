@@ -9,7 +9,7 @@ I have a Bachelor's Degree in Biomedical Engineering 🦿 and I’ve followed so
 I’ve worked on several projects during my career, some as the result of a University course and others on my own.
 - **[Eriantys](https://github.com/AndreaVerrone/ing-sw-2022-miani-porta-verrone):** a digital version developed in Java of the homonymous board game created by Cranio Creations. 
 - **[AMaBeL](https://xd.adobe.com/view/05170fde-40d6-4397-405e-6a045c894ac3-7326/?fullscreen):** a mobile application used to control and mitigate anxiety attacks designed during my thesis work for the Bachelor’s Degree. Currently I’m working on developing this application. 
-- **[Milan Arts Experience](https://github.com/francescoaristei/summer-festival):** a [website](https://summer-festival.herokuapp.com/) created as the final project of a course at Politecnico di Milano, in which I worked on the design of the website using Figma.
+- **[Milan Arts Experience](https://github.com/francescoaristei/summer-festival):** a [website](https://www.figma.com/proto/BCoIo9kW4qRHjqpCZTGOrF/Web-UI?page-id=27%3A1696&node-id=27%3A1998&viewport=1434%2C-1367%2C0.32&scaling=scale-down-width&starting-point-node-id=27%3A1998) created as the final project of a course at Politecnico di Milano, in which I worked on the design of the website using Figma.
 - **[Organized ToDo](https://play.google.com/store/apps/details?id=com.anverapps.organized_todo):** a Flutter app available for both [android](https://play.google.com/store/apps/details?id=com.anverapps.organized_todo) and [browser](https://organized-todo.web.app/) that lets you create fine-grained to-do lists
 
 ## How to contact me 📣
