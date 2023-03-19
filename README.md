@@ -2,7 +2,7 @@
 
 I'm **Andrea Verrone**, an Italian student from Milan who really likes coding and developing software 👨‍💻, both front-end and back-end. 
 I’ve started coding when I was in high school and never stopped since. </br>
-I have a Bachelor's Degree in Biomedical Engineering 🦿 and I’m currently studying for a Master's Degree in Computer Science and Engineering 💻, both taken at [Politecnico di Milano](https://www.polimi.it/).
+I have a Bachelor's Degree in Biomedical Engineering 🦿 and I’ve followed some courses of the Degree in Computer Science and Engineering 💻, both taken at [Politecnico di Milano](https://www.polimi.it/).
 
 ## Some of my works 🛠
 
@@ -16,4 +16,4 @@ I’ve worked on several projects during my career, some as the result of a Univ
 
 <a href="mailto:andrea.verrone@mail.polimi.it"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.instagram.com/andrea_9812/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<!-- <a href=""><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/andrea-verrone-34b59a26a"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
